@@ -1,0 +1,9 @@
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\bin\Debug\M7_DNI.exe.config
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\bin\Debug\M7_DNI.exe
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\bin\Debug\M7_DNI.pdb
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.csprojAssemblyReference.cache
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.Form1.resources
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.Properties.Resources.resources
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.csproj.GenerateResource.cache
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.exe
+H:\OneDrive - Centre d'Estudis Monlau\M7\Proyectos\M7_DNI\obj\Debug\M7_DNI.pdb
